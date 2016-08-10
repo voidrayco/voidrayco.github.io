@@ -1,0 +1,20 @@
+# ----------[ Metedata ]----------------------------------------
+#
+# OSX
+.DS_Store
+# JetBrains
+.idea
+*.iml
+
+# ----------[ Application ]----------------------------------------
+#
+bower_components
+logs
+config.*.json
+
+# ----------[ NodeJS ]----------------------------------------
+#
+node_modules
+npm-debug.log*
+tags
+.tags*
