@@ -10,3 +10,6 @@
 .findify-mjs-search-results__footer.row > div:last-child {
   width: 100%;
 }
+.findify-mjs-powered-by-findify {
+  display: none !important;
+}
