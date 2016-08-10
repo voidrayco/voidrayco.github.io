@@ -1,12 +1,12 @@
-.findify-mjs-search-results__main.row div:first-child {
+.findify-mjs-search-results__main.row > div:first-child {
   display: none;
 }
-.findify-mjs-search-results__main.row div:last-child {
+.findify-mjs-search-results__main.row > div:last-child {
   width: 100%;
 }
-.findify-mjs-search-results__footer.row div:first-child {
+.findify-mjs-search-results__footer.row > div:first-child {
   display: none;
 }
-.findify-mjs-search-results__footer.row div:last-child {
+.findify-mjs-search-results__footer.row > div:last-child {
   width: 100%;
 }
