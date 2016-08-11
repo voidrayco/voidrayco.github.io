@@ -27,12 +27,12 @@
   border: none !important;
 }
 
-.findify-mjs-search-results__main__content__product__box__title {
+p.findify-mjs-search-results__main__content__product__box__title {
   font-weight: bold !important;
 }
 
 a.findify-mjs-search-results__main__content__product__box:hover p.findify-mjs-search-results__main__content__product__box__title {
-  color: black;
+  color: #000000 !important;
 }
 
 body hr {
