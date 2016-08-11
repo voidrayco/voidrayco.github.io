@@ -13,3 +13,6 @@
 .findify-mjs-search-results__header .row > div:first-child {
   display: none;
 }
+.findify-mjs-search-results__header .row > div:last-child {
+  float: right !important;
+}
