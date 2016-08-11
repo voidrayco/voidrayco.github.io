@@ -16,6 +16,9 @@
 .findify-mjs-search-results__header .row > div:last-child {
   float: right !important;
 }
+.findify-mjs-search-results__main__content__product__box:hover {
+  background: none !important;
+}
 
 @media screen and (max-width: 767px) {
   .findify-mjs-search-results {
