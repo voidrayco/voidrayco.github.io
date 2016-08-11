@@ -16,3 +16,9 @@
 .findify-mjs-search-results__header .row > div:last-child {
   float: right !important;
 }
+
+@media screen and (max-width: 767px) {
+  .findify-mjs-search-results {
+    padding-top: 0 !important;
+  }
+}
