@@ -27,6 +27,10 @@
   border: none !important;
 }
 
+a.findify-mjs-search-results__main__content__product__box:hover .findify-mjs-search-results__main__content__product__box__title {
+  color: black;
+}
+
 body hr {
   display: none !important;
 }
