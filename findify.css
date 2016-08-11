@@ -19,6 +19,17 @@
 .findify-mjs-search-results__main__content__product__box:hover {
   background: none !important;
 }
+.findify-mjs-search-results__main__content__product__box h5 {
+  display: none !important;
+}
+
+.findify-mjs-search-results__main__content {
+  border: none !important;
+}
+
+body hr {
+  display: none !important;
+}
 
 @media screen and (max-width: 767px) {
   .findify-mjs-search-results {
