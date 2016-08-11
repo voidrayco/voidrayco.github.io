@@ -27,15 +27,13 @@
   border: none !important;
 }
 
-body p.findify-mjs-search-results__main__content__product__box__title {
-  font-weight: bold !important;
-  color: rgba(0,0,0,.25);
-}
-
 body a.findify-mjs-search-results__main__content__product__box:hover p.findify-mjs-search-results__main__content__product__box__title {
   color: #000000 !important;
+}
+
+body .findify-mjs-search-results .findify-mjs-search-results__main .findify-mjs-search-results__main__content .findify-mjs-search-results__main__content__product .findify-mjs-search-results__main__content__product__box .findify-mjs-search-results__main__content__product__box__title {
+  color: rgba(0,0,0,.5);
   font-weight: bold;
-  font-size: 20px;
 }
 
 body hr {
