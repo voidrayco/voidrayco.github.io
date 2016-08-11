@@ -10,3 +10,6 @@
 .findify-mjs-powered-by-findify {
   display: none !important;
 }
+.findify-mjs-search-results__header .row > div:first-child {
+  display: none;
+}
